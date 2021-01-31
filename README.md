@@ -22,7 +22,7 @@ The past year has been one of the most difficult years for many people, the rise
 - Familiarization with Android Studio
 - XML
 
-## Dificulties
+## Difficulties
 - Time constraints
 - Database implementation
 - Creation of notification in mobile device
